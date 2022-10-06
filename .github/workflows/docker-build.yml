@@ -44,4 +44,4 @@ jobs:
           file: ./Dockerfile
           platforms: linux/amd64
           push: true
-          tags: panosagg/python-helloworld:latest
+          tags: panosagg/python-helloworld:v2.1.1
