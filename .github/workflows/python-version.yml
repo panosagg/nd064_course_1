@@ -4,7 +4,7 @@ name: Python version
 ## In this case, the workflow is execute on a `push` event,
 ## or when a new commit is pushed to the repository
 on: [push]
-## List the steps to be executed by the workflow
+##  List the steps to be executed by the workflow
 jobs:
   ## Set the name of the job
   check-python-version:
